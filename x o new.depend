@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1556474628 source:c:\users\ahmed\desktop\ x o new\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1556474628 source:d:\projects\x o new\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1556474628 source:d:\youssef\projects\x o new\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
